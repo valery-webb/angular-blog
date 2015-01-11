@@ -23,6 +23,7 @@ angular.module('app.blog',[
 // main app module
 angular.module('app',[
     'ui.router',
+    'ui.bootstrap',
     'app.admin',
     'app.blog'
     ]);
